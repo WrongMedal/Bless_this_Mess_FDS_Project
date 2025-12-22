@@ -1,4 +1,4 @@
-# Bless this mess (FDS Project)
+# Bless this Mess (FDS Project)
 ⚠️ STILL A WORK IN PROGRESS ⚠️ 
 
 

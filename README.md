@@ -1,7 +1,4 @@
 # Bless this Mess (FDS Project)
-⚠️ STILL A WORK IN PROGRESS ⚠️ 
-
-
 This repo contains code and files related to the final project for the course FDS 25/26 @Sapienza for the group _Copia_di_Copia_di_Untitled14_. <br>
 
 Our team's project was an attemp to organize files within a folder. Since folders can easily become the Mess™—especially when collaborating—we felt, after our previous project together, the need for a tool like this.
@@ -27,5 +24,5 @@ This here is a brief illustration of our pipeline: [Pipeline](https://github.com
 Further details can be found in our [presentation](https://github.com/WrongMedal/Bless_this_Mess_FDS_Project/blob/main/presentation.pdf) and report.
 
 ### Full code
-The full code, instead, can be found here (once I add the links).
+The full code, instead, can be found [here](https://github.com/WrongMedal/Bless_this_Mess_FDS_Project/upload/main).
 

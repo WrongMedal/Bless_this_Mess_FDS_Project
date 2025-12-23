@@ -8,9 +8,17 @@ Our team's project was an attemp to organize files within a folder. Since folder
 
 In this case we worked on text files but in the future we could maybe extend it to code and slides.
 
-### 🌐 Live Demo
-You can test the application directly in your browser without any installation: **[Access the Live Demo](https://blessthismess.streamlit.app/)**. <br>
-The demo script is in the demo branch.
+### Demo
+You can test the application directly on your computer with the file demo_app.py (here).
+#### How to Run Locally
+
+1. **Install Dependencies**:
+   ```bash
+   pip install streamlit sentence-transformers networkx scikit-learn unstructured transformers
+2. **Lunch the app**:
+   ```bash
+   streamlit run demo_app.py
+
 
 ### Pipeline
 This here is a brief illustration of our pipeline: ![Pipeline](https://github.com/WrongMedal/Bless_this_mess-FDS-Project-/blob/main/Pipeline_Screenshot.png)

@@ -16,7 +16,7 @@ The demo script is in the demo branch.
 This here is a brief illustration of our pipeline: ![Pipeline](https://github.com/WrongMedal/Bless_this_mess-FDS-Project-/blob/main/Pipeline_Screenshot.png)
 
 ### Further details
-Further details can be found in our presentation and report.
+Further details can be found in our ![presentation](https://github.com/WrongMedal/Bless_this_Mess_FDS_Project/blob/main/presentation.pdf) and report.
 
 ### Full code
 The full code, instead, can be found here (once I add the links).

@@ -8,15 +8,16 @@ Our team's project was an attemp to organize files within a folder. Since folder
 
 In this case we worked on text files but in the future we could maybe extend it to code and slides.
 
+### Pipeline
 This here is a brief illustration of our pipeline: ![Pipeline](https://github.com/WrongMedal/Bless_this_mess-FDS-Project-/blob/main/Pipeline_Screenshot.png)
 
-## Further details
+### Further details
 Further details can be found in our presentation and report.
 
-## 🌐 Live Demo
+### 🌐 Live Demo
 You can test the application directly in your browser without any installation: **[Access the Live Demo](https://blessthismess.streamlit.app/)**. <br>
 The demo script is in the demo branch.
 
-## Full code
+### Full code
 The full code, instead, can be found here (once I add the links).
 

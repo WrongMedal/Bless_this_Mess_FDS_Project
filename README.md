@@ -14,7 +14,7 @@ This here is a brief illustration of our pipeline: ![Pipeline](https://github.co
 Further details can be found in our presentation and report.
 
 ## 🌐 Live Demo
-You can test the application directly in your browser without any installation: **[Access the Live Demo](https://blessthismess.streamlit.app/)**
+You can test the application directly in your browser without any installation: **[Access the Live Demo](https://blessthismess.streamlit.app/)**. <br>
 The demo script is in the demo branch.
 
 ## Full code

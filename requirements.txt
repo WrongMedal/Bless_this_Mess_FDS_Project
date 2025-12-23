@@ -1,0 +1,13 @@
+numpy
+pandas
+torch
+tqdm
+scikit-learn
+sentence-transformers
+transformers
+matplotlib
+seaborn
+networkx
+unstructured
+requests
+urllib3
